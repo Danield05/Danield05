@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **tailwind,php,react,python**
 
-- 👯Some of my collaborations [la_bendicion_CSS](https://github.com/VARONCOL88/la_bendicion_CSS.git) 
+- 👯Some of my collaborations:
+-  [la_bendicion_CSS](https://github.com/VARONCOL88/la_bendicion_CSS.git) 
 - [Reproductor-musica](https://github.com/Reviszzz/Reproductor-musica.git)
 - [subsidiosv](https://github.com/Moi1713/subsidiosv.git)
 - [ExAulaHDP115Grupo11](https://github.com/ado1203/ExAulaHDP115Grupo11.git)
