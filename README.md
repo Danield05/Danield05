@@ -68,6 +68,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danield05&show_icons=true&locale=en&bg_color=0D1117" alt="danield05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield05&bg_color=0D1117" alt="danield05" /></p>
 
 
