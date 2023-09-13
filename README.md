@@ -63,10 +63,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danield05&show_icons=true&locale=en&layout=compact" alt="danield05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danield05&show_icons=true&locale=en" alt="danield05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danield05&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="danield05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield05&" alt="danield05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danield05&show_icons=true&locale=en&bg_color=0D1117" alt="danield05" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield05&bg_color=0D1117" alt="danield05" /></p>
 
 
