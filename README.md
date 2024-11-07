@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Aquino</h1>
-<h3 align="center">I'm Full Stack and student System Engineer</h3>
+<h3 align="center">I'm developer and student System Engineer</h3>
 
 
 - 🌱 I’m currently learning: **tailwind,php,react,python**
