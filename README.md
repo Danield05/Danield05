@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Daniel Aquino</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300">
 </p>
 
 <h3 align="center">💻 Full Stack Developer | System Engineering Student</h3>
